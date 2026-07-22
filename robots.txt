@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-hqi9d7.pixk.link/sitemap.xml
